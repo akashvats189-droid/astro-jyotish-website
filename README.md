@@ -1,1 +1,1 @@
-# astro-jyotish-website
+astro-jyotish-website
